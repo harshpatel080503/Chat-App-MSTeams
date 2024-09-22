@@ -35,13 +35,13 @@ cd chat-app
 ```
 
 
-📖 Usage
+## 📖 Usage
 - Sign Up / Log In: Users can create an account or log in using their credentials.
 - Start a Conversation: Search for users by username and begin chatting.
 - Group Chats: Create or join group chats for multiple participants.
 - Real-time Messaging: Send and receive messages in real-time with WebSocket support.
 
-👥 Contributing
+## 👥 Contributing
 Contributions are welcome! Please follow these steps to contribute:
 
 - Fork the repository.
@@ -50,10 +50,10 @@ Contributions are welcome! Please follow these steps to contribute:
 - Push to the branch: (git push origin feature/AmazingFeature).
 - Open a pull request.
 
-📝 License
+## 📝 License
 This project is licensed under the MIT License.
 
-🙌 Acknowledgements
+## 🙌 Acknowledgements
 Socket.io for enabling real-time communication.
 React.js for the frontend framework.
 Express.js for the backend server.
